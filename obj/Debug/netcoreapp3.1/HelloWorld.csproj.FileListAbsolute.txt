@@ -1,0 +1,13 @@
+E:\pemrograman\pertemuan10\Abstraction3\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+E:\pemrograman\pertemuan10\Abstraction3\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+E:\pemrograman\pertemuan10\Abstraction3\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+E:\pemrograman\pertemuan10\Abstraction3\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+E:\pemrograman\pertemuan10\Abstraction3\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+E:\pemrograman\pertemuan10\Abstraction3\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+E:\pemrograman\pertemuan10\Abstraction3\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+E:\pemrograman\pertemuan10\Abstraction3\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+E:\pemrograman\pertemuan10\Abstraction3\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+E:\pemrograman\pertemuan10\Abstraction3\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+E:\pemrograman\pertemuan10\Abstraction3\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+E:\pemrograman\pertemuan10\Abstraction3\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+E:\pemrograman\pertemuan10\Abstraction3\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
